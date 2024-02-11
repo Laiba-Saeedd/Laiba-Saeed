@@ -1,2 +1,2 @@
 # Laiba-Saeed
-Hi! I'm Laiba Saeed
+Greetings! I'm Laiba Saeed, a Software Engineer skilled in C++, Java, Python, and MySQL. I'm driven by a passion for AI and machine learning, channeling Python to craft ingenious solutions. Beyond software, I excel in web development, sculpting HTML, CSS, PHP, and MySQL into powerful applications. Fascinated by networking intricacies, I've embarked on projects like the HITEC UNIVERSITY TAXILA endeavor on Cisco Packet Tracer. Dive into my portfolio to witness the seamless fusion of software engineering, AI innovation, and networking prowess.
